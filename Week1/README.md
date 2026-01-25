@@ -36,10 +36,10 @@ The task focused on implementing core frontend concepts and understanding how us
 ---
 **root/**
 
-  Week1/
-  ├── index.html
-  ├── index.css
-  └── README.md
+    Week1/
+    ├── index.html
+    ├── index.css
+    └── README.md
 
 ---
 
