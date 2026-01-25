@@ -9,8 +9,9 @@ Each folder represents weekly tasks assigned as part of the internship program, 
 
 ---
 
-**InternPe/**
+**root/**
 
+    InternPe/
     ├── Week1/
     │   ├── index.html
     │   ├── index.css
