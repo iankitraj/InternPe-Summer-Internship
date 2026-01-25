@@ -8,13 +8,14 @@ Each folder represents weekly tasks assigned as part of the internship program, 
 ## 📁 Repository Structure
 
 ---
+**root/**
 
-InternPe/
-    ├── Week1/
-    │ ├── index.html
-    │ ├── index.css
-    │ └── README.md
-    └── README.md
+    InternPe/
+        ├── Week1/
+        │ ├── index.html
+        │ ├── index.css
+        │ └── README.md
+        └── README.md
 
 ---
 
