@@ -10,12 +10,13 @@ Each folder represents weekly tasks assigned as part of the internship program, 
 ---
 
 **root/**
-    └── InternPe/
-        ├── Week1/
-        │   ├── index.html
-        │   ├── index.css
-        │   └── README.md
-        └── README.md
+
+    InternPe/
+    ├── Week1/
+    │   ├── index.html
+    │   ├── index.css
+    │   └── README.md
+    └── README.md
 
 ---
 
