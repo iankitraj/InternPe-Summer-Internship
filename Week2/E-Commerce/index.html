@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>ShopEase</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <header class="navbar">
+        <div class="logo">ShopEase</div>
+
+        <div class="nav-center">
+            <input type="text" id="search" placeholder="Search products...">
+            <select id="category">
+                <option value="all">All</option>
+                <option value="Men">Men</option>
+                <option value="Women">Women</option>
+                <option value="Kids">Kids</option>
+                <option value="Electronics">Electronics</option>
+                <option value="Fashion">Fashion</option>
+            </select>
+        </div>
+
+        <div class="nav-right">
+            <button class="icon-btn" onclick="toggleTheme()">🌙</button>
+
+            <!-- <div class="user-menu">
+                <div class="user-btn" onclick="toggleMenu()">
+                    <img src="https://cdn-icons-png.flaticon.com/512/847/847969.png">
+                    <!-- <span>Account</span> -->
+            <!-- </div>  -->
+            <div class="account-icon">
+                <span class="avatar">👤</span>
+                <div class="account-dropdown">
+                    <a href="login.html">Sign In</a>
+                    <a href="signup.html">Sign Up</a>
+                </div>
+            </div>
+
+
+            <a class="cart-link" href="cart.html">
+                🛒 <span id="cart-count">0</span>
+            </a>
+        </div>
+    </header>
+
+    <section class="products" id="product-list"></section>
+
+    <footer class="footer">
+        © 2026 ShopEase. All rights reserved.
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+
+</html>

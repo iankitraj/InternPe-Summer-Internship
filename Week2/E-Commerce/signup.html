@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sign Up - ShopEase</title>
+    <link rel="stylesheet" href="./login.css">
+</head>
+
+<body>
+
+    <!-- Top Navbar -->
+    <nav class="top-nav">
+        <div class="logo">ShopEase</div>
+        <div class="nav-icons">
+            <div class="cart-icon">🛒 <span class="cart-count">0</span></div>
+
+            <div class="account-icon">
+                👤
+                <div class="account-dropdown">
+                    <a href="login.html">Sign In</a>
+                    <a href="signup.html">Sign Up</a>
+                </div>
+            </div>
+
+            <button class="theme-toggle" onclick="document.body.classList.toggle('dark')">🌙</button>
+        </div>
+    </nav>
+
+    <!-- Main Split Container -->
+    <div class="container fade">
+
+        <!-- Left: Image + Text -->
+        <div class="left-side fade-left">
+            <img src="https://images.pexels.com/photos/35541612/pexels-photo-35541612.jpeg" alt="E-commerce image" loading="lazy">
+            <div class="welcome-text">
+                <h2>Join ShopEase Today</h2>
+                <p>Create your account and unlock exclusive deals, faster checkout, and order tracking.</p>
+            </div>
+        </div>
+
+        <!-- Right: Signup Form -->
+        <div class="right-side fade-right">
+            <div class="auth-box">
+                <h2>Create Account</h2>
+                <p class="subtitle">Sign up to get started</p>
+
+                <form>
+                    <input type="text" placeholder="Full Name" required>
+                    <input type="email" placeholder="Email Address" required>
+                    <input type="password" placeholder="Password" required>
+                    <input type="password" placeholder="Confirm Password" required>
+                    <button type="submit">Sign Up</button>
+                </form>
+
+                <p>Already have an account? <a href="login.html">Login</a></p>
+            </div>
+        </div>
+
+    </div>
+
+</body>
+
+</html>
