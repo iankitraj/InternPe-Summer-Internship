@@ -11,38 +11,38 @@ Each folder represents weekly tasks assigned as part of the internship program, 
 
 **root/**
 
-InternPe-Summer-Internship/
-├── Week1/
-│   ├── index.html
-│   ├── style.css
-│   └── README.md
-│
-├── Week2_E-Commerce/
-│   ├── index.html
-│   ├── cart.html
-│   ├── checkout.html
-│   ├── success.html
-│   ├── admin.html
-│   ├── login.html
-│   ├── signup.html
-│   ├── css/
-│   │   ├── style.css
-│   │   ├── cart.css
-│   │   ├── checkout.css
-│   │   ├── login.css
-│   │   ├── signup.css
-│   │   └── success.css
-│   ├── js/
-│   │   └── script.js
-│   └── README.md
-│
-├── Week3_To-Do-List/
-│   ├── index.html
-│   ├── index.css
-│   ├── script.js
-│   └── README.md
-│
-└── README.md
+    InternPe-Summer-Internship/
+    ├── Week1/
+    │   ├── index.html
+    │   ├── style.css
+    │   └── README.md
+    │
+    ├── Week2_E-Commerce/
+    │   ├── index.html
+    │   ├── cart.html
+    │   ├── checkout.html
+    │   ├── success.html
+    │   ├── admin.html
+    │   ├── login.html
+    │   ├── signup.html
+    │   ├── css/
+    │   │   ├── style.css
+    │   │   ├── cart.css
+    │   │   ├── checkout.css
+    │   │   ├── login.css
+    │   │   ├── signup.css
+    │   │   └── success.css
+    │   ├── js/
+    │   │   └── script.js
+    │   └── README.md
+    │
+    ├── Week3_To-Do-List/
+    │   ├── index.html
+    │   ├── index.css
+    │   ├── script.js
+    │   └── README.md
+    │
+    └── README.md
 
 
 ---
