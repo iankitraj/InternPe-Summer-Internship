@@ -11,25 +11,86 @@ Each folder represents weekly tasks assigned as part of the internship program, 
 
 **root/**
 
-    InternPe/
-    ├── Week1/
-    │   ├── index.html
-    │   ├── index.css
-    │   └── README.md
-    └── README.md
+InternPe-Summer-Internship/
+├── Week1/
+│   ├── index.html
+│   ├── style.css
+│   └── README.md
+│
+├── Week2_E-Commerce/
+│   ├── index.html
+│   ├── cart.html
+│   ├── checkout.html
+│   ├── success.html
+│   ├── admin.html
+│   ├── login.html
+│   ├── signup.html
+│   ├── css/
+│   │   ├── style.css
+│   │   ├── cart.css
+│   │   ├── checkout.css
+│   │   ├── login.css
+│   │   ├── signup.css
+│   │   └── success.css
+│   ├── js/
+│   │   └── script.js
+│   └── README.md
+│
+├── Week3_To-Do-List/
+│   ├── index.html
+│   ├── index.css
+│   ├── script.js
+│   └── README.md
+│
+└── README.md
+
 
 ---
+
+
+---
+
+## 📌 Completed Tasks
+
+### ✅ Task 1 – Basic Web Page
+- HTML & CSS fundamentals  
+- Responsive layout  
+- Clean UI structure  
+
+### ✅ Task 2 – E-commerce Website
+- Product listing & cart functionality  
+- Login / Sign Up UI  
+- Dark & Light mode  
+- Animations & responsive design  
+
+### ✅ Task 3 – To-Do List Web App
+- Add, Edit & Delete tasks  
+- Task status (Completed / Pending)  
+- Filters (All / Completed / Pending)  
+- Progress bar  
+- Dark / Light mode  
+- Local Storage (data persists after refresh)  
+- Smooth animations & modern UI  
+
+---
+
+---
+
+## 🎯 Objective
+To gain hands-on experience in frontend development by building real-world projects using **HTML, CSS, and JavaScript**, and improving problem-solving, logic building, and UI/UX skills.
+
+---
+
+## 🛠️ Technologies Used
+- HTML  
+- CSS  
+- JavaScript  
 
 ## 🧑‍💻 Internship Details
 - **Platform:** InternPe
 - **Domain:** Web Development
 - **Role:** Intern
 - **Duration:** Ongoing
-
----
-
-## 🎯 Objective
-To gain hands-on experience in frontend development by building real-world projects using modern web technologies.
 
 ---
 

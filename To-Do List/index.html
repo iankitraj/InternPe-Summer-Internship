@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Task3 | To-Do List</title>
+    <link rel="stylesheet" href="index.css">
+</head>
+
+<body>
+
+    <div class="app">
+        <header>
+            <h2>My Tasks</h2>
+            <button class="theme" onclick="toggleTheme()">🌙</button>
+        </header>
+
+        <div class="add">
+            <input id="taskInput" placeholder="What needs to be done?">
+            <button onclick="addTask()">Add</button>
+        </div>
+
+        <div class="filters">
+            <span class="active" onclick="setFilter(this,'all')">All</span>
+            <span onclick="setFilter(this,'pending')">Pending</span>
+            <span onclick="setFilter(this,'completed')">Completed</span>
+        </div>
+
+        <div class="progress">
+            <div id="bar"></div>
+            <small id="progressText"></small>
+        </div>
+
+        <ul id="list"></ul>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+
+</html>
