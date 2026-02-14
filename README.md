@@ -1,52 +1,57 @@
-# InternPe Internship Projects
+# 📂 InternPe Internship Projects
 
 This repository contains the projects completed during my internship at **InternPe**.  
-Each folder represents weekly tasks assigned as part of the internship program, focusing on improving practical web development skills.
+Each folder represents weekly tasks assigned as part of the internship program, focusing on improving practical **web development skills**.
 
 ---
 
 ## 📁 Repository Structure
 
----
+
 
 **root/**
 
     InternPe-Summer-Internship/
     ├── Week1/
-    │   ├── index.html
-    │   ├── style.css
-    │   └── README.md
+    │ ├── index.html
+    │ ├── style.css
+    │ └── README.md
     │
     ├── Week2_E-Commerce/
-    │   ├── index.html
-    │   ├── cart.html
-    │   ├── checkout.html
-    │   ├── success.html
-    │   ├── admin.html
-    │   ├── login.html
-    │   ├── signup.html
-    │   ├── css/
-    │   │   ├── style.css
-    │   │   ├── cart.css
-    │   │   ├── checkout.css
-    │   │   ├── login.css
-    │   │   ├── signup.css
-    │   │   └── success.css
-    │   ├── js/
-    │   │   └── script.js
-    │   └── README.md
+    │ ├── index.html
+    │ ├── cart.html
+    │ ├── checkout.html
+    │ ├── success.html
+    │ ├── admin.html
+    │ ├── login.html
+    │ ├── signup.html
+    │ ├── css/
+    │ │ ├── style.css
+    │ │ ├── cart.css
+    │ │ ├── checkout.css
+    │ │ ├── login.css
+    │ │ ├── signup.css
+    │ │ └── success.css
+    │ ├── js/
+    │ │ └── script.js
+    │ └── README.md
     │
     ├── Week3_To-Do-List/
-    │   ├── index.html
-    │   ├── index.css
-    │   ├── script.js
-    │   └── README.md
+    │ ├── index.html
+    │ ├── index.css
+    │ ├── script.js
+    │ └── README.md
+    │
+    ├── Week4_Connect-Four/
+    │ ├── index.html
+    │ ├── style.css
+    │ ├── script.js
+    │ └── README.md
     │
     └── README.md
 
 
 ---
-
 
 ---
 
@@ -57,7 +62,7 @@ Each folder represents weekly tasks assigned as part of the internship program, 
 - Responsive layout  
 - Clean UI structure  
 
-### ✅ Task 2 – E-commerce Website
+### ✅ Task 2 – E-Commerce Website
 - Product listing & cart functionality  
 - Login / Sign Up UI  
 - Dark & Light mode  
@@ -69,15 +74,22 @@ Each folder represents weekly tasks assigned as part of the internship program, 
 - Filters (All / Completed / Pending)  
 - Progress bar  
 - Dark / Light mode  
-- Local Storage (data persists after refresh)  
+- Local Storage (data persistence)  
 - Smooth animations & modern UI  
 
----
+### ✅ Task 4 – Connect Four Web Game
+- Two-player gameplay (Red 🔴 vs Yellow 🟡)  
+- Disc drop animation  
+- Win detection (horizontal, vertical, diagonal)  
+- Draw detection  
+- Score counter  
+- Winning highlight animation  
+- Modern dark-themed UI  
 
 ---
 
 ## 🎯 Objective
-To gain hands-on experience in frontend development by building real-world projects using **HTML, CSS, and JavaScript**, and improving problem-solving, logic building, and UI/UX skills.
+To gain hands-on experience in frontend development by building real-world projects using **HTML, CSS, and JavaScript**, while improving **problem-solving, logic building, and UI/UX skills**.
 
 ---
 
@@ -86,11 +98,13 @@ To gain hands-on experience in frontend development by building real-world proje
 - CSS  
 - JavaScript  
 
+---
+
 ## 🧑‍💻 Internship Details
-- **Platform:** InternPe
-- **Domain:** Web Development
-- **Role:** Intern
-- **Duration:** Ongoing
+- **Platform:** InternPe  
+- **Domain:** Web Development  
+- **Role:** Intern  
+- **Duration:** Ongoing  
 
 ---
 
