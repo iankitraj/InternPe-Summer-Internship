@@ -47,11 +47,20 @@ Each folder represents weekly tasks assigned as part of the internship program, 
     │ ├── style.css
     │ ├── script.js
     │ └── README.md
+    |
+    ├── Week5_6_Quiz App/
+    │ ├── index.html
+    │ ├── style.css
+    │ ├── script.js
+    │ └── README.md
     │
     └── README.md
 
 
 ---
+
+---
+
 
 ---
 
@@ -86,6 +95,16 @@ Each folder represents weekly tasks assigned as part of the internship program, 
 - Winning highlight animation  
 - Modern dark-themed UI  
 
+### ✅ Task 5 & 6 – Quiz Game Web Application
+- Real-type quiz system (exam-like behavior)  
+- 10 random questions per attempt  
+- Automatic question shuffling on refresh  
+- One-time option selection (locked after click)  
+- Correct answer highlighted in green  
+- Wrong answer highlighted in red with correct option shown  
+- Final score displayed like **7/10 or 10/10**  
+- Clean and professional UI  
+
 ---
 
 ## 🎯 Objective
@@ -111,4 +130,4 @@ To gain hands-on experience in frontend development by building real-world proje
 ## 📌 Author
 **Ankit Raj**  
 B.Tech – Computer Engineering  
-Aspiring Web / Software Developer
+Aspiring Web / Software Developer  
